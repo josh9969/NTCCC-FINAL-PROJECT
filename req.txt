@@ -1,0 +1,10 @@
+streamlit
+openrouteservice
+geopandas
+pandas
+folium
+geopy
+openpyxl
+matplotlib
+shapely
+contextily

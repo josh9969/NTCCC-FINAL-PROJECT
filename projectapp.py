@@ -60,7 +60,7 @@ def save_map(m, filename='map.html'):
 
 # --- Main App ---
 def main():
-    st.title("\ud83d\ude97 Drive Time & Isochrone Calculator")
+    st.title("Drive Time & Isochrone Calculator")
     st.write("Professional Final Year Project\nUpgraded with Addresses, Fuel Cost, Modes, Folium Maps!")
 
     mode = st.radio("Select Mode", ("Drive Time Calculator", "Isochrone Generator"))
